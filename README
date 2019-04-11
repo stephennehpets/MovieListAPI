@@ -1,0 +1,2 @@
+To build: (From MovieListAPI Directory)gradle build
+To run(From MovieListAPI Directory) java -jar build/libs.MovieList-0.0.1-SNAPSHOT.jar
